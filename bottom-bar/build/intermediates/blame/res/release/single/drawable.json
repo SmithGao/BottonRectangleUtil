@@ -92,12 +92,12 @@
         "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",

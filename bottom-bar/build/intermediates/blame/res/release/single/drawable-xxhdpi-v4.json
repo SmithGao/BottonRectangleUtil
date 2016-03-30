@@ -4,12 +4,12 @@
         "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
