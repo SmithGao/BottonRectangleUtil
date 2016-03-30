@@ -12,14 +12,17 @@
 ＊(第一步)＊
 Android studio：
 ===================================
-1:依图所示
- ![](https://github.com/SmithGao/ImageUtil/blob/master/num6.png)
- 2:在配置中添加这两句话
- apply plugin: 'com.github.dcendents.android-maven'
+1:依图所示 在as中新创建一个项目 倒入(创建 －名字随便取)自己的library 
 
+ ![](https://github.com/SmithGao/ImageUtil/blob/master/num6.png)
+ 
+ 2:在配置中添加这两句话
+ 
+ apply plugin: 'com.github.dcendents.android-maven'
  group='com.github.xxxx'
  
  3:然后在根目录的build.gradle中添加
+ 
   ![](https://github.com/SmithGao/ImageUtil/blob/master/num7.png)
   将    classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3' 复制到图中的位置
 
