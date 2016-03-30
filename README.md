@@ -27,7 +27,11 @@ GitHub：
 
     根据图中标记指示操作
   ![](https://github.com/SmithGao/ImageUtil/blob/master/num3.png)
-
+  
+  到这里 一个简单的开源库就已经配置好了 然后点击进入[JitPack](https://jitpack.io/) ,做最后的配置
+    ![](https://camo.githubusercontent.com/ee22093c45970b2fc58009ff226b633bc6812ca5/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f30303558746469326a773166323361303535756f656a3330727330676f6469302e6a7067)
+  
+![](https://github.com/SmithGao/ImageUtil/blob/master/num6.png)
 
     总结：1:一个library只能创建一个开源库
           2:在library中 尽量不要有libs
