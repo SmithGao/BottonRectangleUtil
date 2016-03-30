@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7339a327-8d87-43f4-89ff-88f35db3f83a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/gao/demo/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/gao/demo/MainActivity.java" />
+=======
+    <list default="true" id="c34b9c61-3ee3-4387-8a57-7d05c5fb3870" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> mingshuo
     </list>
     <ignored path="GitHub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +31,13 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gao/demo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.23893805">
               <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+=======
+            <state vertical-scroll-proportion="0.26548672">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+>>>>>>> mingshuo
               <folding />
             </state>
           </provider>
@@ -37,6 +47,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+>>>>>>> mingshuo
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2397,6 +2415,7 @@
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -2404,6 +2423,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> mingshuo
   <component name="NamedScopeManager">
     <order />
   </component>
@@ -2436,7 +2457,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitHub" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> mingshuo
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2541,6 +2577,7 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
@@ -2552,6 +2589,8 @@
           </PATH>
         </subPane>
       </pane>
+=======
+>>>>>>> mingshuo
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2561,7 +2600,10 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
+<<<<<<< HEAD
     <property name="ignore_missing_gitignore" value="true" />
+=======
+>>>>>>> mingshuo
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2585,6 +2627,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -2605,6 +2648,8 @@
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <method />
     </configuration>
+=======
+>>>>>>> mingshuo
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -2644,11 +2689,14 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
       <method />
     </configuration>
+=======
+>>>>>>> mingshuo
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2728,6 +2776,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="7339a327-8d87-43f4-89ff-88f35db3f83a" name="Default" comment="" />
       <created>1459263427750</created>
       <option name="number" value="Default" />
@@ -2740,6 +2789,13 @@
       <updated>1459263871191</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+      <changelist id="c34b9c61-3ee3-4387-8a57-7d05c5fb3870" name="Default" comment="" />
+      <created>1459302439177</created>
+      <option name="number" value="Default" />
+      <updated>1459302439177</updated>
+    </task>
+>>>>>>> mingshuo
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2768,6 +2824,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2775,15 +2832,27 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+>>>>>>> mingshuo
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="//111" />
     <option name="LAST_COMMIT_MESSAGE" value="//111" />
   </component>
+=======
+>>>>>>> mingshuo
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -2791,8 +2860,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gao/demo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.23893805">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+=======
+        <state vertical-scroll-proportion="0.26548672">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+>>>>>>> mingshuo
           <folding />
         </state>
       </provider>
