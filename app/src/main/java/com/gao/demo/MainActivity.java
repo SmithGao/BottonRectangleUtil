@@ -11,6 +11,10 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		//第一次测试
+>>>>>>> mingshuo
 =======
 		//第一次测试
 >>>>>>> mingshuo
