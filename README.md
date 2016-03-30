@@ -64,3 +64,17 @@ GitHub：
           6:第一次写文章真的很费劲 但是我相信以后会越来越好的 以后只要写好一个开源库 我会更新的
           7:如果你有什么问题 可以加我的微信联系我 咱们在一起讨论学习 g2215719882  g以后的是我的qq号
           8:祝所有的小伙儿伴能够顺利的开发
+
+下面我为大家介绍此库的使用方法
+a) 依据上面所示 先将配置写入你要开发的项目中去
+b) 将      xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+粘贴到你项目的根布局下
+c) <com.gc.materialdesign.views.ButtonRectangle
+        android:id="@+id/btn_login"
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="登录"
+        materialdesign:rippleSpeed="90"/>
