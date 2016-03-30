@@ -39,6 +39,8 @@ GitHub：
 ![](https://github.com/SmithGao/ImageUtil/blob/master/num5.png)
 
  到现在 一个属于自己开源库就此大功告成 因为是公开的所以用于团队的开发是每一没有问题的
+ 
+ 
     总结：1:一个library只能创建一个开源库
           2:在library中 尽量不要有libs
           3:创建的时候 要新建一个项目里面会出现引包重复的冲突 (如果你的是最新版本的AS)
