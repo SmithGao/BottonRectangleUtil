@@ -16,12 +16,12 @@
         "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
         "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/SuperMe/GitHub/bottom-bar/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
