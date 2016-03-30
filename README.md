@@ -6,18 +6,25 @@
 1:经过本人这几天的所有研究 终于把 GitHub客户端(/web) JitPack(一个自定义的Maven仓库) 轻松的融合到了一起
   现在已经实现了通过github客户端将本地项目文件传导服务器上 在通过jitpack生成库的链接倒入大家自己的开发项目中
   
+  下面我来为大家讲解下 如何将到library传到自己的中央库中
+  首先需要将本地的库配置好
+  
+＊(第一步)＊
 Android studio：
 ===================================
+1:依图所示
  ![](https://github.com/SmithGao/ImageUtil/blob/master/num6.png)
- 在配置中添加这两句话
+ 2:在配置中添加这两句话
  apply plugin: 'com.github.dcendents.android-maven'
 
  group='com.github.xxxx'
  
- 然后在根目录的build.gradle中添加
+ 3:然后在根目录的build.gradle中添加
   ![](https://github.com/SmithGao/ImageUtil/blob/master/num7.png)
   将    classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3' 复制到图中的位置
-  
+
+＊(第二步)＊
+
 GitHub：
 ===================================
 那些注册登录 创建自己的库这些简单的配置我就不多说了
@@ -33,7 +40,10 @@ GitHub：
     根据图中标记指示操作
   ![](https://github.com/SmithGao/ImageUtil/blob/master/num3.png)
   
+  ＊(第三步)＊
+  
   到这里 一个简单的开源库就已经配置好了 然后点击进入[JitPack](https://jitpack.io/) ,做最后的配置
+  
     ![](https://camo.githubusercontent.com/ee22093c45970b2fc58009ff226b633bc6812ca5/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f30303558746469326a773166323361303535756f656a3330727330676f6469302e6a7067)
   
 ![](https://github.com/SmithGao/ImageUtil/blob/master/num5.png)
