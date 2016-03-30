@@ -19,6 +19,7 @@ Android studio：
  2:在配置中添加这两句话
  
  apply plugin: 'com.github.dcendents.android-maven'
+ 
  group='com.github.xxxx'
  
  3:然后在根目录的build.gradle中添加
@@ -31,7 +32,7 @@ Android studio：
 GitHub：
 ===================================
 那些注册登录 创建自己的库这些简单的配置我就不多说了
-主要是详细的讲解一下如何配置自己的库(这也是在一个朋友那里看到的 想看原文的朋友可以点击这里 [sloop](https://github.com/GcsSloop) 
+主要是详细的讲解一下如何配置自己的库(这也是在一个朋友那里看到的 想看原文的朋友可以点击这里 @[sloop](https://github.com/GcsSloop) 
 
     直接上图吧 说的明白
  ![](https://raw.githubusercontent.com/SmithGao/ImageUtil/master/num1.png)
@@ -50,7 +51,8 @@ GitHub：
     ![](https://camo.githubusercontent.com/ee22093c45970b2fc58009ff226b633bc6812ca5/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f30303558746469326a773166323361303535756f656a3330727330676f6469302e6a7067)
   
 ![](https://github.com/SmithGao/ImageUtil/blob/master/num5.png)
-
+ 
+ 如图所示 将这两句话导进开发的项目中 就可以引用你库中的所有方法了 是不是很炫 很牛x的样子 赶紧来试试吧
  到现在 一个属于自己开源库就此大功告成 因为是公开的所以用于团队的开发是每一没有问题的
  
  
