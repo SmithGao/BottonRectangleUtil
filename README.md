@@ -14,7 +14,7 @@ Android studio：
 
  group='com.github.xxxx'
  
- 然后在根目录的
+ 然后在根目录的build.gradle中添加
   ![](https://github.com/SmithGao/ImageUtil/blob/master/num7.png)
   将    classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3' 复制到图中的位置
   
