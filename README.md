@@ -67,8 +67,10 @@ GitHub：
 
 下面我为大家介绍此库的使用方法
 a) 依据上面所示 先将配置写入你要开发的项目中去
-b) 将      xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+
+b) 将xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
 粘贴到你项目的根布局下
+
 c) <com.gc.materialdesign.views.ButtonRectangle
         android:id="@+id/btn_login"
         android:layout_width="150dp"
@@ -78,3 +80,4 @@ c) <com.gc.materialdesign.views.ButtonRectangle
         android:gravity="center"
         android:text="登录"
         materialdesign:rippleSpeed="90"/>
+        
