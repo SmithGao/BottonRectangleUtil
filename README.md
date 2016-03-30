@@ -8,10 +8,15 @@
   
 Android studio：
 ===================================
+ ![](https://github.com/SmithGao/ImageUtil/blob/master/num6.png)
+ 在配置中添加这两句话
+ apply plugin: 'com.github.dcendents.android-maven'
+
+ group='com.github.xxxx'
  
-jitpack：
-===================================
- 
+ 然后在根目录的
+  ![](https://github.com/SmithGao/ImageUtil/blob/master/num7.png)
+  将    classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3' 复制到图中的位置
   
 GitHub：
 ===================================
@@ -31,8 +36,9 @@ GitHub：
   到这里 一个简单的开源库就已经配置好了 然后点击进入[JitPack](https://jitpack.io/) ,做最后的配置
     ![](https://camo.githubusercontent.com/ee22093c45970b2fc58009ff226b633bc6812ca5/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f30303558746469326a773166323361303535756f656a3330727330676f6469302e6a7067)
   
-![](https://github.com/SmithGao/ImageUtil/blob/master/num6.png)
+![](https://github.com/SmithGao/ImageUtil/blob/master/num5.png)
 
+ 到现在 一个属于自己开源库就此大功告成 因为是公开的所以用于团队的开发是每一没有问题的
     总结：1:一个library只能创建一个开源库
           2:在library中 尽量不要有libs
           3:创建的时候 要新建一个项目里面会出现引包重复的冲突 (如果你的是最新版本的AS)
@@ -40,3 +46,4 @@ GitHub：
           5:jitpack 可以使用github登录
           6:第一次写文章真的很费劲 但是我相信以后会越来越好的 以后只要写好一个开源库 我会更新的
           7:如果你有什么问题 可以加我的微信联系我 咱们在一起讨论学习 g2215719882  g以后的是我的qq号
+          8:祝所有的小伙儿伴能够顺利的开发
