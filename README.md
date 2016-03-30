@@ -71,13 +71,15 @@ a) 依据上面所示 先将配置写入你要开发的项目中去
 b) 将xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
 粘贴到你项目的根布局下
 
-c) “<com.gc.materialdesign.views.ButtonRectangle
-        android:id="@+id/btn_login"
-        android:layout_width="150dp"
-        android:layout_height="55dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="10dp"
-        android:gravity="center"
-        android:text="登录"
-        materialdesign:rippleSpeed="90"/>”
-        
+c) com.gc.materialdesign.views.ButtonRectangle
+  android:id="@+id/btn_login"
+ android:layout_width="150dp"
+  android:layout_height="55dp"
+  android:layout_gravity="center_horizontal"
+  android:layout_marginTop="10dp"
+ android:gravity="center"
+ android:text="登录"
+  materialdesign:rippleSpeed="90"
+  
+  (记得前后加</>)
+
