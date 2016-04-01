@@ -2,9 +2,7 @@ apply plugin: 'com.android.library'
 // COMMENT TO DEVELOPER MODE / UNCOMMENT TO UPLOAD TO BINTARRAY
 //apply plugin: 'com.github.dcendents.android-maven'
 //apply plugin: 'com.jfrog.bintray'
-apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.SmithGao'
 android {
     compileSdkVersion 23
     buildToolsVersion '23.0.0'
@@ -21,12 +19,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-
 }
 
 dependencies {
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.android.support:support-v4:23.+'
+    compile fileTree(dir: 'libs', include: '*.jar')
 }
 
 // COMMENT TO DEVELOPER MODE / UNCOMMENT TO UPLOAD TO BINTARRAY
